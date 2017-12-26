@@ -2,6 +2,6 @@
    phpinfo();
    echo 3121;
    function showlist(){
-   	echo 123;
+   	echo 123; 	 	
    }
 ?>
